@@ -1,2 +1,2 @@
 # drona_aditya
-tweaked version of cleanflight code 
+tweaked version of cleanfluight code 
